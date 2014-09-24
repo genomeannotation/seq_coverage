@@ -1,4 +1,4 @@
-FastaCoverage
+seq coverage
 =============
 
-Calculates coverage of sequence across fasta files
+Calculates coverage of sequence across sequences
